@@ -14,5 +14,7 @@
     <img align="center" alt="c++" src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
     <img align="center" alt="c++" src= "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> 
     <img align="center" alt="c++" src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
-</div>
+</div><br/>
 
+
+“Tecnologia é qualquer coisa que não estava por aí quando você nasceu”. Alan Kay – cientista da computação.
